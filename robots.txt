@@ -1,0 +1,4 @@
+User-agent: *
+host: https://sorts.site/
+Disallow: /includes
+Sitemap: https://www.sorts.site/sitemap.xml

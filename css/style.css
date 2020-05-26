@@ -1,0 +1,22 @@
+html, body, * {
+    font-family: 'Roboto',
+    sans-serif;
+}
+
+.graph {
+    min-height: 350px;
+    background-color: black;
+    overflow: auto;
+}
+
+.item {
+    background-color: white;
+    padding: 2px;
+    flex: 1;
+    border: 0.5px double black;
+}
+
+.md-outline.select-wrapper+label {
+    top: .5em !important;
+    z-index: 2 !important;
+}
