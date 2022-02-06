@@ -3,6 +3,8 @@
 ### About
 
 The project was developed as part of the research work on sorting algorithms at the university.
+Made with pure PHP 7 and jQuery 3.4.1.
+
 
 ### Features
 
