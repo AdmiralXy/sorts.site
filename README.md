@@ -39,6 +39,7 @@ The project was developed as part of the research work on sorting algorithms at 
 Project requires:
 * PHP 7.2
 * Webserver like Apache or Nginx
+* 4GB RAM recommended
 
 Tested on:
 * Windows 10
